@@ -1,16 +1,18 @@
 # Template FullStack
 
-This is a template for full stack development using Typescript, Express, MongoDB and React
+This is a template for fullstack development using Typescript, Express, MongoDB and React
 
 ## Requirements to Run
 
-- NPM or YARN
+- **NPM** or **YARN**
 - Docker
 - Docker-Composer
 
 ## How to run development
 
 Use `./startdevelopent.sh` to run the project on the local server
+
+If you want use **NPM** instead of **YARN** use `./stardevelopmentNPM.sh` to run the project on development mode on local server.
 
 After that you cant use **docker-compose** whenever you want:
 
